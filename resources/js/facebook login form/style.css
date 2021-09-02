@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200&family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+/*=====================UNIVERSAL CODE==================*/
+*{
+margin: 0;
+padding: o;
+box-sizing: border-box;
+}
+html{
+    font-size:67.5%;
+}
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+/*header section*/
+header {
+    background: #3A5696;
+    overflow: hidden;
+}
+
+.head {
+    float: left;
+}
+
+.head form {
+    float: right;
+}
+
+.head img {
+    width: 16%;
+}
+
+.contenar {
+    width: 110rem;
+}
